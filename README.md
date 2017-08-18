@@ -3,7 +3,8 @@
 VS Code and X-Debug Setup guide
 
 
-
+installer crome extension  Xdebug helper
+https://chrome.google.com/webstore/detail/xdebug-helper/eadndfjplgieldjbigjakmdgkmoaaaoc
 
 	1. gå til https://xdebug.org/wizard.php
 	2. i cmd skriv:  php -i
